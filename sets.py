@@ -24,7 +24,8 @@ print("-----------------------------------------------------")
 
 #removing
 Days=set(["Mon","Tue","Wed","Thu","Fri","Sat","Sun"])
-Days.discard("Sun")
+Days.remove("Sun")
+Days.discard("Mon")
 print(Days)
 
 print("-----------------------------------------------------")
