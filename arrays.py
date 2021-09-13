@@ -10,6 +10,7 @@ print(array1[0])
 
 # #insertion
 array1.insert(1,60)
+array1.append(555)
 for x in array1:
  print(x)
 

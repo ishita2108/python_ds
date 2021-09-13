@@ -9,7 +9,7 @@ print (DoubleEnded)
 
 DoubleEnded.appendleft("Sun")
 
-print ("Appended at right at left is - ")
+print ("Appended at left is - ")
 print (DoubleEnded)
 
 DoubleEnded.pop()
